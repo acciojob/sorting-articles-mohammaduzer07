@@ -11,7 +11,7 @@
 	background-attachment: fixed;
 	background-size: 100% 100%;
 }
-#band{
+#bands{
 	list-style-type: square;
 	justify-content: flex-start;
 	text-align: left;
